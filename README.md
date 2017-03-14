@@ -1,7 +1,7 @@
 # Django Project Boilerplate
 
 
-This is a boilerplate to start an web app development using Django. 
+This is a boilerplate to start a web app development using Django. 
 
 This project uses:
 - Django 1.10
